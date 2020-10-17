@@ -28,25 +28,24 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 
 
-┈┈┈┈╱▔▔▔▔╲┈┈┈┈
-┈┈┈▕▕╲┊┊╱▏▏┈┈┈
-┈┈┈▕▕▂╱╲▂▏▏┈┈┈
-┈┈┈┈╲┊┊┊┊╱┈┈┈┈
-┈┈┈┈▕╲▂▂╱▏┈┈┈┈
-╱▔▔▔▔┊┊┊┊▔▔▔▔╲
+┈┈┈╲┈┈┈┈╱
+┈┈┈╱▔▔▔▔╲
+┈┈┃┈▇┈┈▇┈┃
+╭╮┣━━━━━━┫╭╮
+┃┃┃┈┈┈┈┈┈┃┃┃
+╰╯┃┈┈┈┈┈┈┃╰╯
+┈┈╰┓┏━━┓┏╯
+┈┈┈╰╯┈┈╰╯
 HOI    {}, MY NAME IS {} !
 
 I AM A GROUP MANAGER BOT MAINTAINED BY 
 
-[THIS LEGEND](tg://user?id={}).
+[THIS FELLOW](tg://user?id={}).
 
-HIT HELP FOR COMMANDS  /help
+THIS BOT CAN'T JOIN YOUR GROUPS!
 
-I AM COMPLETELY OPEN SOURCE
 
-MY SOURCE CODE IS AVAILABLE TO YOU
-
-[HERE](https://github.com/leobrownlee/phantom)
+[Support](t.me/jacob_paul1)
 
 """
 
