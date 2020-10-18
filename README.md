@@ -4,12 +4,12 @@
 
 
  
-GENERATED FROM [THIS REPOSITORY](https://github.com/AnimeKaizoku/SaitamaRobot)
+GENERATED FROM [maintenance support](https://t.me/jacob_paul1)
 
 
 
 
-[![phantom](https://telegra.ph/file/72b6a2032bd19642ff759.jpg)]
+[![ANAMIKA](https://telegra.ph/file/1ffaef57cd82f15236aa2.jpg)]
 
 
 
