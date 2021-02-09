@@ -51,4 +51,4 @@ class Production(Config):
 
 
 class Development(Config):
-    LOGGER = Tru
+    LOGGER = True
